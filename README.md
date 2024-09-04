@@ -96,4 +96,4 @@ Cos(0): El coseno de 0 grados en radianes es 1.
 
 Cos(180): El coseno de 180 grados en radianes es -1.
 
-Sin(45): El seno de 45 grados en radianes es aproximadamente 0.707, lo cual redondea a 1.
+Sin(45): El seno de 45 grados en radianes es aproximadamente 0.707.
