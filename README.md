@@ -3,7 +3,7 @@
 Parcial primer corte - David Esteban Martinez Rios
 
 1. Para ejecutar el archivo de tokens AWK:
-2. 
+   
 	- ./token.awk token.txt
 
 EN consola se imprime correctamente los tokens del archivo token.txt: 
@@ -16,7 +16,7 @@ ERROR: Expresión no reconocida (invalid_token)
 
 
 2. Se complila el archivo LEX con GCC
-3. 
+   
 	- flex lambda.l 
 
 	Se crea automaticamente el archivo lex.yy.x y
@@ -34,8 +34,8 @@ ERROR: Expresión no reconocida (invalid_token)
 	
 
 
-5. Se complila el archivo .c con gcc
-6. 
+3. Se complila el archivo .c con gcc
+
 	- gcc miprograma.c -o miprograma
 
 	Se crea automaticamente el .miprograma
